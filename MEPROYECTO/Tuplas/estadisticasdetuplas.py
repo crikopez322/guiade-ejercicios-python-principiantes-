@@ -1,0 +1,7 @@
+numeros = (10, 20, 30, 40, 50)
+suma_total = sum(numeros)
+promedio = suma_total / len(numeros)
+maximo = max(numeros)
+print("Suma:", suma_total)
+print("Promedio:", promedio)
+print("Máximo:", maximo)
